@@ -25,5 +25,5 @@
 [<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]: https://www.linkedin.com/in/mariiarozhina/
+[linkedin]: https://www.linkedin.com/in/cryomary/
 [instagram]: https://www.instagram.com/hrshjivem/
